@@ -27,7 +27,7 @@ grid-template-columns: auto auto;
 }
 .leftside{
 padding: 10px;
-background-image: url(/img/face.PNG);
+background-image: url(/assets/img/face.PNG);
 background-repeat: no-repeat;
 background-size: contain;
 background-position-x: center;
