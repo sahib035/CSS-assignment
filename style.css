@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0.717);
+}
+.banner{
+background-color: #37538C;
+color: white;
+display: grid;
+grid-template-columns:  auto 450px;
+}
+.head{
+font-size: 23px;
+font-weight: bolder;
+padding-left: 80px;
+}
+.form{
+margin-top: 12px;
+display: grid;
+grid-template-columns: 200px auto;
+
+}
+.body{
+background-color: #EEF1F6;
+display: grid;
+grid-template-columns: auto auto;
+}
+.leftside{
+padding: 10px;
+background-image: url(/img/face.PNG);
+background-repeat: no-repeat;
+background-size: contain;
+background-position-x: center;
+background-position-y:center ;
+}
+.rightside{
+padding: 40px;
+}
+b{
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+#leh1{
+font-size: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#sih1{
+font-size: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div>h4{
+font-size: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.birth{
+position: absolute;
+top: 540px;
+right: 300px;
+}
+.gender{
+font-size: 22px;
+}
+.email,.password{
+font-size: 22px;
+}
+.link{
+color: white;
+font-size: 17px;
+}
